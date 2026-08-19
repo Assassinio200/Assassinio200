@@ -58,9 +58,9 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/genassassin200?">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=genassassin200?&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<a href="https://open.spotify.com/user/genassassin200">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=genassassin200&amp;theme=transparent&amp;width=500&amp;logo=0&amp;text_color=a354e3" alt="Spotify recently played" width="500" />
+</a>
 </div>
 
 ###
