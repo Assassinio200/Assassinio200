@@ -17,7 +17,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Assassinio200/Assassinio200/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
+  ![Stats](./profile/stats.svg) <br>
   <img src="https://raw.githubusercontent.com/Assassinio200/Assassinio200/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
