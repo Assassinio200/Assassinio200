@@ -16,13 +16,6 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  ![Stats](./profile/stats.svg) <br>
-  <img src="https://raw.githubusercontent.com/Assassinio200/Assassinio200/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img data-importer="image" align="left" height="150" src="https://i.imgflip.com/avv4rj.gif"  />
 
 ###
